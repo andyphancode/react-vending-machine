@@ -1,0 +1,11 @@
+.Soda {
+    height:100vh;
+    width: 100vw;
+    background-position: center;
+    background-repeat: repeat;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+
+}

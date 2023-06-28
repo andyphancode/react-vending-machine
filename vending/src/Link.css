@@ -1,0 +1,12 @@
+.Link, .Link-vending {
+    color: white;
+}
+
+.Link-vending {
+    font-size: 2rem;
+}
+
+.Link:active, .Link:focus, .Link-vending:active, .Link-vending:focus {
+    color: green;
+}
+
